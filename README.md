@@ -6,6 +6,6 @@
 </ul>
 <h2>JS</h2>
 <ul>
-  <li> </li>
+  <li>Basic JavaScript 71/113 </li>
 </ul>
   
