@@ -4,6 +4,7 @@
 <ul>
   <li>Basic HTML and HTML5</li>
   <li>Basic CSS</li>
+  <li>Applied Visual Design 3/52</li>
 </ul>
 <h2>JS</h2>
 <ul>
